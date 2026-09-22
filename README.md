@@ -1,9 +1,9 @@
 # Trabalho Prático — Administração, Segurança e Governança de Dados
 
-**Disciplina:** Administração de Banco de Dados (DBA)
-**SGBD utilizado:** PostgreSQL
-**Ferramenta de administração:** pgAdmin
-**Instituição:** Aems
+**Disciplina:** Administração de Banco de Dados (DBA) <br>
+**SGBD utilizado:** PostgreSQL <br>
+**Ferramenta de administração:** pgAdmin <br>
+**Instituição:** Aems <br>
 **Integrante(s):** Pedro Henrique Nascimento da Silva
 
 ---
